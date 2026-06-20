@@ -4,8 +4,8 @@
 
 <div align="center">
 
-![Building something](https://img.shields.io/badge/%F0%9F%A9%B8%20Building%20in%20the%20dark-8b0a1a?style=flat-square&labelColor=2d0a3d)
-![Status](https://img.shields.io/badge/%F0%9F%A6%87%20Awake%20after%20midnight-4a0e1f?style=flat-square&labelColor=2d0a3d)
+<img src="https://img.shields.io/badge/%F0%9F%A9%B8%20Building%20in%20the%20dark-8b0a1a?style=flat-square&labelColor=2d0a3d" alt="Building something"/>
+<img src="https://img.shields.io/badge/%F0%9F%A6%87%20Awake%20after%20midnight-4a0e1f?style=flat-square&labelColor=2d0a3d" alt="Status"/>
 
 </div>
 
@@ -17,22 +17,26 @@
 
 A Solution Architect on a technology graduate scheme, with a background that has nothing to do with computers — I studied English literature at university.
 
-> *"I keep coming back to the same texts... only now they're written in Python."*
-
 🥀 Now teaching myself full stack development and data science, one broken build at a time.
 
 🕯️ Currently working on a top secret side project that I'm not ready to show yet 🤫
 
 🩸 **Fun Fact** · I went from analysing Victorian novels to debugging Python in under two years, and honestly the syntax errors are less forgiving than my old university tutors.
 
+---
+
 - ⚰️ **Location** · Scotland
 - 🌙 **Experience** · 1 Year of Solution Architecture & 23 Years of Side-Questing
 - 🎓 **Education** · University of Edinburgh
 - ⟳ **Learning** · Full-stack Development & Data Science
 
+---
+
 ### ✦ Featured Projects
 
 - **Scriptworm** — super secret side project 🤫
+
+---
 
 ### ✦ Stack
 
@@ -48,9 +52,13 @@ A Solution Architect on a technology graduate scheme, with a background that has
 
 <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,redis&theme=dark" alt="Backend & Databases"/>
 
+---
+
 ### ✦ Languages
 
-- 🇬🇧 **English** · ![Native](https://img.shields.io/badge/-Native-8b0a1a?style=flat-square&labelColor=2d0a3d)
+- 🇬🇧 **English** · <img src="https://img.shields.io/badge/-Native-8b0a1a?style=flat-square&labelColor=2d0a3d" alt="Native"/>
+
+---
 
 ### ✦ The Crypt Ledger
 
@@ -66,10 +74,12 @@ A Solution Architect on a technology graduate scheme, with a background that has
 
 </div>
 
+---
+
 ### ✦ The Hunt (contribution snake)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FaithSc0tt/FaithSc0tt/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/FaithSc0tt/FaithSc0tt/output/github-contribution-grid-snake-dark.svg?v=2" alt="snake animation"/>
 </div>
 
 ---
