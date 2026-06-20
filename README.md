@@ -20,7 +20,9 @@ A Solution Architect on a technology graduate scheme, with a background that has
 > *"I keep coming back to the same texts... only now they're written in Python."*
 
 🥀 Now teaching myself full stack development and data science, one broken build at a time.
+
 🕯️ Currently working on a top secret side project that I'm not ready to show yet 🤫
+
 🩸 **Fun Fact** · I went from analysing Victorian novels to debugging Python in under two years, and honestly the syntax errors are less forgiving than my old university tutors.
 
 - ⚰️ **Location** · Scotland
