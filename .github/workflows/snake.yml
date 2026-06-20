@@ -18,7 +18,12 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=8b0a1a&color_dots=e0f18,5c1a2b,8a2740,b53659,e08097
+            dist/github-contribution-grid-snake-dark.svg?color_snake=a83246&color_dots=2e0f18,5c1a2b,8a2740,b53659,e08097
+
+      - name: Check output exists
+        run: |
+          echo "Contents of dist:"
+          ls -la dist/ || echo "dist/ does not exist!"
 
       - name: Push to output branch
         run: |
@@ -28,5 +33,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b output
           git add -A
-          git commit -q -m "Update snake animation"
+          git commit -q -m "Update snake animation" --allow-empty
           git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output
