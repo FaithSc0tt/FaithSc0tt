@@ -20,14 +20,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?color_snake=a83246&color_dots=2e0f18,5c1a2b,8a2740,b53659,e08097
 
-      - name: Check output exists
-        run: |
-          echo "Contents of dist:"
-          ls -la dist/ || echo "dist/ does not exist!"
-
       - name: Push to output branch
         run: |
-          cd dist
+          mkdir -p out
+          sudo cp dist/*.svg out/
+          sudo chown -R "$(id -u):$(id -g)" out
+          cd out
           git init -q
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
