@@ -28,11 +28,11 @@ A Solution Architect on a technology graduate scheme, with a background that has
 - ⚰️ **Location** · Scotland
 - 🌙 **Experience** · 1 Year of Solution Architecture & 23 Years of Side-Questing
 - 🎓 **Education** · University of Edinburgh
-- ⟳ **Learning** · Rust, product strategy, and better DX tooling
+- ⟳ **Learning** · Full-stack Development & Data Science
 
 ### ✦ Featured Projects
 
-- **Scriptworm** — super secret side project 🤫🩸
+- **Scriptworm** — super secret side project 🤫
 
 ### ✦ Stack
 
