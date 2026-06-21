@@ -63,15 +63,17 @@ A Solution Architect on a technology graduate scheme, with a background that has
 ### ✦ The Crypt Ledger
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FaithSc0tt&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0608&title_color=d4435c&icon_color=8b0a1a&text_color=d4a5b8" alt="Faith stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaithSc0tt&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d0608&title_color=d4435c&text_color=d4a5b8" alt="Faith top languages"/>
-
+  <img src="https://raw.githubusercontent.com/FaithSc0tt/FaithSc0tt/main/profile-summary-card-output/dracula/0-profile-details.svg" width="100%" alt="Faith profile details"/>
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/FaithSc0tt/FaithSc0tt/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per language"/>
+  <img src="https://raw.githubusercontent.com/FaithSc0tt/FaithSc0tt/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most commit language"/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaithSc0tt&theme=dark&hide_border=true&background=0d0608&stroke=8b0a1a&ring=d4435c&fire=8b0a1a&currStreakLabel=d4a5b8" alt="Faith streak"/>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FaithSc0tt/FaithSc0tt/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats"/>
+  <img src="https://raw.githubusercontent.com/FaithSc0tt/FaithSc0tt/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive time"/>
 </div>
 
 ---
