@@ -63,16 +63,11 @@ A Solution Architect on a technology graduate scheme, with a background that has
 ### ✦ The Crypt Ledger
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FaithSc0tt/FaithSc0tt/main/profile-summary-card-output/dracula/0-profile-details.svg" width="100%" alt="Faith profile details"/>
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/FaithSc0tt/FaithSc0tt/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per language"/>
   <img src="https://raw.githubusercontent.com/FaithSc0tt/FaithSc0tt/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most commit language"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FaithSc0tt/FaithSc0tt/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats"/>
   <img src="https://raw.githubusercontent.com/FaithSc0tt/FaithSc0tt/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive time"/>
 </div>
 
