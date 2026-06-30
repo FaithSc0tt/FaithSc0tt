@@ -68,6 +68,14 @@ A Solution Architect on a technology graduate scheme, with a background that has
 
 ---
 
+### ✦ Boot.dev
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/728f2e55-bfa4-46a9-8ff8-afc1af1271db/thumbnail" >
+</p>
+
+---
+
 <div align="center">
 <sub>Forged after dusk · <a href="https://github.com/FaithSc0tt">github.com/FaithSc0tt</a></sub>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a3d,50:4a0e1f,100:8b0a1a&height=120&section=footer" width="100%" alt="Footer wave"/>
